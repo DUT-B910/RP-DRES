@@ -1,0 +1,1 @@
+from .Config_bert_all_path import Config

@@ -1,0 +1,2 @@
+from .GCGCN_node_path import GCGCN_node_path
+from .GCN_node_all_path import GCN_node_all_path
